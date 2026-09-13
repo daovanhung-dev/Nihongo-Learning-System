@@ -1,0 +1,8 @@
+{
+  "screen_id": "S22",
+  "title": "Grammar Detail",
+  "route": "/#/grammar/:id",
+  "source_archive": "stitch_nihongo_learning_system (3).zip",
+  "source_directory": "s22_grammar_detail_chi_ti_t_c_u_tr_c",
+  "feature_group": "grammar"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nihongo-learning-system-workspace",
+  "private": true,
+  "scripts": {
+    "install:frontend": "npm --prefix frontend install",
+    "start": "npm --prefix frontend start",
+    "build": "npm --prefix frontend run build",
+    "test": "npm --prefix frontend test",
+    "check": "bash scripts/validate-project.sh"
+  }
+}

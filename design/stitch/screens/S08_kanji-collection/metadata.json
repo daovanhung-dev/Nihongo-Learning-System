@@ -1,0 +1,8 @@
+{
+  "screen_id": "S08",
+  "title": "Kanji Collection",
+  "route": "/#/kanji/collections/:id",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s08_kanji_collection_b_s_u_t_p_jlpt_n5",
+  "feature_group": "kanji"
+}

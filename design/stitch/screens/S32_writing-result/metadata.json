@@ -1,0 +1,8 @@
+{
+  "screen_id": "S32",
+  "title": "Writing Result",
+  "route": "/#/writing/:sessionId/result",
+  "source_archive": "stitch_nihongo_learning_system (4).zip",
+  "source_directory": "s32_writing_result_b_o_c_o_k_t_qu_b_i_vi_t_ai_ch_m_88_i_m",
+  "feature_group": "writing"
+}

@@ -1,0 +1,8 @@
+{
+  "screen_id": "S13",
+  "title": "Learn Setup",
+  "route": "/#/study/:setId/learn/setup",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s13_learn_setup_thi_t_l_p_ch_h_c_th_ch_ng",
+  "feature_group": "learn"
+}

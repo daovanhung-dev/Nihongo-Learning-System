@@ -1,0 +1,8 @@
+{
+  "screen_id": "S06",
+  "title": "Kanji Library",
+  "route": "/#/kanji",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s06_kanji_library_th_vi_n_ch_h_n",
+  "feature_group": "kanji"
+}

@@ -1,0 +1,8 @@
+{
+  "screen_id": "S30",
+  "title": "Reading Result",
+  "route": "/#/reading/:sessionId/result",
+  "source_archive": "stitch_nihongo_learning_system (3).zip",
+  "source_directory": "s30_reading_result_k_t_qu_c_hi_u_d_n_ch_ng_ai",
+  "feature_group": "reading"
+}

@@ -1,0 +1,8 @@
+{
+  "screen_id": "S19",
+  "title": "Test Result",
+  "route": "/#/results/:sessionId",
+  "source_archive": "stitch_nihongo_learning_system (3).zip",
+  "source_directory": "s19_test_result_b_o_c_o_k_t_qu_b_i_thi_th_86_t",
+  "feature_group": "tests"
+}

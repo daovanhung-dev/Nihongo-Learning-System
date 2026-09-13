@@ -1,0 +1,8 @@
+{
+  "screen_id": "S18",
+  "title": "Test Session",
+  "route": "/#/study/:setId/test",
+  "source_archive": "stitch_nihongo_learning_system (3).zip",
+  "source_directory": "s18_test_session_ph_ng_thi_th_c_t_nh_gi",
+  "feature_group": "tests"
+}

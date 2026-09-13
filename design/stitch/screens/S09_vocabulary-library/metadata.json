@@ -1,0 +1,8 @@
+{
+  "screen_id": "S09",
+  "title": "Vocabulary Library",
+  "route": "/#/vocabulary",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s09_vocabulary_library_th_vi_n_t_v_ng",
+  "feature_group": "vocabulary"
+}

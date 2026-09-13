@@ -1,0 +1,8 @@
+{
+  "screen_id": "S04",
+  "title": "Kana Character Detail",
+  "route": "/#/kana/:id",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s04_kana_detail_chi_ti_t_k_t",
+  "feature_group": "kana"
+}

@@ -1,0 +1,8 @@
+{
+  "screen_id": "S16",
+  "title": "Japanese Dictation",
+  "route": "/#/study/:setId/dictation",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s16_japanese_dictation_luy_n_nghe_ch_p_ch_nh_t",
+  "feature_group": "dictation"
+}

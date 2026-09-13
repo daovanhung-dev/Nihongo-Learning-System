@@ -1,0 +1,8 @@
+{
+  "screen_id": "S12",
+  "title": "Flashcards",
+  "route": "/#/study/:setId/flashcards",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s12_flashcards_th_ghi_nh_th_ng_minh_n5_school",
+  "feature_group": "flashcards"
+}

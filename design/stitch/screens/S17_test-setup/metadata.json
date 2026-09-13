@@ -1,0 +1,8 @@
+{
+  "screen_id": "S17",
+  "title": "Test Setup",
+  "route": "/#/study/:setId/test/setup",
+  "source_archive": "stitch_nihongo_learning_system (3).zip",
+  "source_directory": "s17_test_setup_thi_t_l_p_b_i_ki_m_tra_th_n5",
+  "feature_group": "tests"
+}

@@ -1,0 +1,8 @@
+{
+  "screen_id": "S14",
+  "title": "Learn Session",
+  "route": "/#/study/:setId/learn",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s14_learn_session_phi_n_tr_c_nghi_m_th_ch_ng",
+  "feature_group": "learn"
+}

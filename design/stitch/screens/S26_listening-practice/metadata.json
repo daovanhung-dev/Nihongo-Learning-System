@@ -1,0 +1,8 @@
+{
+  "screen_id": "S26",
+  "title": "Listening Practice",
+  "route": "/#/listening/:sessionId",
+  "source_archive": "stitch_nihongo_learning_system (3).zip",
+  "source_directory": "s26_listening_practice_luy_n_nghe_hi_u_h_i_tho_i_n5",
+  "feature_group": "listening"
+}

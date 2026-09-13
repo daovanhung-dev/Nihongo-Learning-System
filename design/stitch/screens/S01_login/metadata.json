@@ -1,0 +1,8 @@
+{
+  "screen_id": "S01",
+  "title": "Login",
+  "route": "/#/login",
+  "source_archive": "stitch_nihongo_learning_system (4).zip",
+  "source_directory": "s01_login_ng_nh_p_h_th_ng_nihongo_learning",
+  "feature_group": "auth"
+}

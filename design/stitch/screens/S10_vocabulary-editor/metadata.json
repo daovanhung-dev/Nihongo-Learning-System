@@ -1,0 +1,8 @@
+{
+  "screen_id": "S10",
+  "title": "Create / Edit Vocabulary Set",
+  "route": "/#/vocabulary/new",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s10_create_edit_vocabulary_set_t_o_b_t_v_ng_m_i",
+  "feature_group": "vocabulary"
+}

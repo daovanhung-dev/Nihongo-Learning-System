@@ -1,0 +1,306 @@
+[
+  {
+    "id": "S01",
+    "title": "Login",
+    "slug": "login",
+    "route": "/#/login",
+    "feature": "auth",
+    "stitch": "design/stitch/screens/S01_login"
+  },
+  {
+    "id": "S02",
+    "title": "Dashboard",
+    "slug": "dashboard",
+    "route": "/#/dashboard",
+    "feature": "dashboard",
+    "stitch": "design/stitch/screens/S02_dashboard"
+  },
+  {
+    "id": "S03",
+    "title": "Kana Home",
+    "slug": "kana-home",
+    "route": "/#/kana",
+    "feature": "kana",
+    "stitch": "design/stitch/screens/S03_kana-home"
+  },
+  {
+    "id": "S04",
+    "title": "Kana Character Detail",
+    "slug": "kana-detail",
+    "route": "/#/kana/:id",
+    "feature": "kana",
+    "stitch": "design/stitch/screens/S04_kana-detail"
+  },
+  {
+    "id": "S05",
+    "title": "Kana Practice",
+    "slug": "kana-practice",
+    "route": "/#/kana/practice",
+    "feature": "kana",
+    "stitch": "design/stitch/screens/S05_kana-practice"
+  },
+  {
+    "id": "S06",
+    "title": "Kanji Library",
+    "slug": "kanji-library",
+    "route": "/#/kanji",
+    "feature": "kanji",
+    "stitch": "design/stitch/screens/S06_kanji-library"
+  },
+  {
+    "id": "S07",
+    "title": "Kanji Detail",
+    "slug": "kanji-detail",
+    "route": "/#/kanji/:id",
+    "feature": "kanji",
+    "stitch": "design/stitch/screens/S07_kanji-detail"
+  },
+  {
+    "id": "S08",
+    "title": "Kanji Collection",
+    "slug": "kanji-collection",
+    "route": "/#/kanji/collections/:id",
+    "feature": "kanji",
+    "stitch": "design/stitch/screens/S08_kanji-collection"
+  },
+  {
+    "id": "S09",
+    "title": "Vocabulary Library",
+    "slug": "vocabulary-library",
+    "route": "/#/vocabulary",
+    "feature": "vocabulary",
+    "stitch": "design/stitch/screens/S09_vocabulary-library"
+  },
+  {
+    "id": "S10",
+    "title": "Create / Edit Vocabulary Set",
+    "slug": "vocabulary-editor",
+    "route": "/#/vocabulary/new",
+    "feature": "vocabulary",
+    "stitch": "design/stitch/screens/S10_vocabulary-editor"
+  },
+  {
+    "id": "S11",
+    "title": "Vocabulary Set Detail",
+    "slug": "vocabulary-set-detail",
+    "route": "/#/vocabulary/:setId",
+    "feature": "vocabulary",
+    "stitch": "design/stitch/screens/S11_vocabulary-set-detail"
+  },
+  {
+    "id": "S12",
+    "title": "Flashcards",
+    "slug": "flashcards",
+    "route": "/#/study/:setId/flashcards",
+    "feature": "flashcards",
+    "stitch": "design/stitch/screens/S12_flashcards"
+  },
+  {
+    "id": "S13",
+    "title": "Learn Setup",
+    "slug": "learn-setup",
+    "route": "/#/study/:setId/learn/setup",
+    "feature": "learn",
+    "stitch": "design/stitch/screens/S13_learn-setup"
+  },
+  {
+    "id": "S14",
+    "title": "Learn Session",
+    "slug": "learn-session",
+    "route": "/#/study/:setId/learn",
+    "feature": "learn",
+    "stitch": "design/stitch/screens/S14_learn-session"
+  },
+  {
+    "id": "S15",
+    "title": "Write / Recall Mode",
+    "slug": "write-recall",
+    "route": "/#/study/:setId/write",
+    "feature": "write-mode",
+    "stitch": "design/stitch/screens/S15_write-recall"
+  },
+  {
+    "id": "S16",
+    "title": "Japanese Dictation",
+    "slug": "dictation",
+    "route": "/#/study/:setId/dictation",
+    "feature": "dictation",
+    "stitch": "design/stitch/screens/S16_dictation"
+  },
+  {
+    "id": "S17",
+    "title": "Test Setup",
+    "slug": "test-setup",
+    "route": "/#/study/:setId/test/setup",
+    "feature": "tests",
+    "stitch": "design/stitch/screens/S17_test-setup"
+  },
+  {
+    "id": "S18",
+    "title": "Test Session",
+    "slug": "test-session",
+    "route": "/#/study/:setId/test",
+    "feature": "tests",
+    "stitch": "design/stitch/screens/S18_test-session"
+  },
+  {
+    "id": "S19",
+    "title": "Test Result",
+    "slug": "test-result",
+    "route": "/#/results/:sessionId",
+    "feature": "tests",
+    "stitch": "design/stitch/screens/S19_test-result"
+  },
+  {
+    "id": "S20",
+    "title": "Match Game",
+    "slug": "match-game",
+    "route": "/#/study/:setId/match",
+    "feature": "match",
+    "stitch": "design/stitch/screens/S20_match-game"
+  },
+  {
+    "id": "S21",
+    "title": "Grammar Library",
+    "slug": "grammar-library",
+    "route": "/#/grammar",
+    "feature": "grammar",
+    "stitch": "design/stitch/screens/S21_grammar-library"
+  },
+  {
+    "id": "S22",
+    "title": "Grammar Detail",
+    "slug": "grammar-detail",
+    "route": "/#/grammar/:id",
+    "feature": "grammar",
+    "stitch": "design/stitch/screens/S22_grammar-detail"
+  },
+  {
+    "id": "S23",
+    "title": "Conjugation Practice",
+    "slug": "conjugation-practice",
+    "route": "/#/conjugation",
+    "feature": "conjugation",
+    "stitch": "design/stitch/screens/S23_conjugation-practice"
+  },
+  {
+    "id": "S24",
+    "title": "Grammar Practice",
+    "slug": "grammar-practice",
+    "route": "/#/grammar/:id/practice",
+    "feature": "grammar",
+    "stitch": "design/stitch/screens/S24_grammar-practice"
+  },
+  {
+    "id": "S25",
+    "title": "Combined Review Builder",
+    "slug": "combined-review-builder",
+    "route": "/#/review/create",
+    "feature": "combined-review",
+    "stitch": "design/stitch/screens/S25_combined-review-builder"
+  },
+  {
+    "id": "S26",
+    "title": "Listening Practice",
+    "slug": "listening-practice",
+    "route": "/#/listening/:sessionId",
+    "feature": "listening",
+    "stitch": "design/stitch/screens/S26_listening-practice"
+  },
+  {
+    "id": "S27",
+    "title": "Speaking Prompt",
+    "slug": "speaking-prompt",
+    "route": "/#/speaking/:sessionId",
+    "feature": "speaking",
+    "stitch": "design/stitch/screens/S27_speaking-prompt"
+  },
+  {
+    "id": "S28",
+    "title": "Speaking Result",
+    "slug": "speaking-result",
+    "route": "/#/speaking/:sessionId/result",
+    "feature": "speaking",
+    "stitch": "design/stitch/screens/S28_speaking-result"
+  },
+  {
+    "id": "S29",
+    "title": "Reading Practice",
+    "slug": "reading-practice",
+    "route": "/#/reading/:sessionId",
+    "feature": "reading",
+    "stitch": "design/stitch/screens/S29_reading-practice"
+  },
+  {
+    "id": "S30",
+    "title": "Reading Result",
+    "slug": "reading-result",
+    "route": "/#/reading/:sessionId/result",
+    "feature": "reading",
+    "stitch": "design/stitch/screens/S30_reading-result"
+  },
+  {
+    "id": "S31",
+    "title": "Writing Practice",
+    "slug": "writing-practice",
+    "route": "/#/writing/:sessionId",
+    "feature": "writing",
+    "stitch": "design/stitch/screens/S31_writing-practice"
+  },
+  {
+    "id": "S32",
+    "title": "Writing Result",
+    "slug": "writing-result",
+    "route": "/#/writing/:sessionId/result",
+    "feature": "writing",
+    "stitch": "design/stitch/screens/S32_writing-result"
+  },
+  {
+    "id": "S33",
+    "title": "AI Practice Generator",
+    "slug": "ai-practice",
+    "route": "/#/ai-practice",
+    "feature": "ai-practice",
+    "stitch": "design/stitch/screens/S33_ai-practice"
+  },
+  {
+    "id": "S34",
+    "title": "AI Tutor",
+    "slug": "ai-tutor",
+    "route": "/#/ai-tutor",
+    "feature": "ai-tutor",
+    "stitch": "design/stitch/screens/S34_ai-tutor"
+  },
+  {
+    "id": "S35",
+    "title": "Review Queue",
+    "slug": "review-queue",
+    "route": "/#/review",
+    "feature": "review",
+    "stitch": "design/stitch/screens/S35_review-queue"
+  },
+  {
+    "id": "S36",
+    "title": "Progress Dashboard",
+    "slug": "progress-dashboard",
+    "route": "/#/progress",
+    "feature": "progress",
+    "stitch": "design/stitch/screens/S36_progress-dashboard"
+  },
+  {
+    "id": "S37",
+    "title": "Mistake Bank",
+    "slug": "mistake-bank",
+    "route": "/#/mistakes",
+    "feature": "mistakes",
+    "stitch": "design/stitch/screens/S37_mistake-bank"
+  },
+  {
+    "id": "S38",
+    "title": "Settings",
+    "slug": "settings",
+    "route": "/#/settings",
+    "feature": "settings",
+    "stitch": "design/stitch/screens/S38_settings"
+  }
+]

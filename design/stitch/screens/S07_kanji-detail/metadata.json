@@ -1,0 +1,8 @@
+{
+  "screen_id": "S07",
+  "title": "Kanji Detail",
+  "route": "/#/kanji/:id",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s07_kanji_detail_chi_ti_t_ch_h_n",
+  "feature_group": "kanji"
+}

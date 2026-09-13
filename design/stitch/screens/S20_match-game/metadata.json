@@ -1,0 +1,8 @@
+{
+  "screen_id": "S20",
+  "title": "Match Game",
+  "route": "/#/study/:setId/match",
+  "source_archive": "stitch_nihongo_learning_system (3).zip",
+  "source_directory": "s20_match_game_tr_ch_i_gh_p_th_t_c_n5",
+  "feature_group": "match"
+}

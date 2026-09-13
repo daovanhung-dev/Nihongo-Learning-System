@@ -1,0 +1,8 @@
+{
+  "screen_id": "S03",
+  "title": "Kana Home",
+  "route": "/#/kana",
+  "source_archive": "stitch_nihongo_learning_system.zip",
+  "source_directory": "s03_kana_home_b_ng_ch_c_i_kana",
+  "feature_group": "kana"
+}

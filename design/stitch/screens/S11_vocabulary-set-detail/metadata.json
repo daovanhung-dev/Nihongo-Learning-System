@@ -1,0 +1,8 @@
+{
+  "screen_id": "S11",
+  "title": "Vocabulary Set Detail",
+  "route": "/#/vocabulary/:setId",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s11_vocabulary_set_detail_chi_ti_t_b_t_v_ng_n5_school",
+  "feature_group": "vocabulary"
+}

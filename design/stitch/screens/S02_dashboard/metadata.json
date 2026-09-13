@@ -1,0 +1,8 @@
+{
+  "screen_id": "S02",
+  "title": "Dashboard",
+  "route": "/#/dashboard",
+  "source_archive": "stitch_nihongo_learning_system.zip",
+  "source_directory": "s02_dashboard_t_ng_quan_h_c_t_p",
+  "feature_group": "dashboard"
+}

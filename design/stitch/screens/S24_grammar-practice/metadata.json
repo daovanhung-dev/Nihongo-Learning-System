@@ -1,0 +1,8 @@
+{
+  "screen_id": "S24",
+  "title": "Grammar Practice",
+  "route": "/#/grammar/:id/practice",
+  "source_archive": "stitch_nihongo_learning_system (3).zip",
+  "source_directory": "s24_grammar_practice_luy_n_t_p_ng_ph_p_ph_n_t_ch_ai",
+  "feature_group": "grammar"
+}

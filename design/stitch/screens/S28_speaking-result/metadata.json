@@ -1,0 +1,8 @@
+{
+  "screen_id": "S28",
+  "title": "Speaking Result",
+  "route": "/#/speaking/:sessionId/result",
+  "source_archive": "stitch_nihongo_learning_system (3).zip",
+  "source_directory": "s28_speaking_result_b_o_c_o_k_t_qu_b_i_n_i_78_i_m",
+  "feature_group": "speaking"
+}

@@ -1,0 +1,8 @@
+{
+  "screen_id": "S15",
+  "title": "Write / Recall Mode",
+  "route": "/#/study/:setId/write",
+  "source_archive": "stitch_nihongo_learning_system (2).zip",
+  "source_directory": "s15_write_recall_mode_luy_n_vi_t_truy_h_i_kanji",
+  "feature_group": "write-mode"
+}

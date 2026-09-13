@@ -1,0 +1,8 @@
+{
+  "screen_id": "S35",
+  "title": "Review Queue",
+  "route": "/#/review",
+  "source_archive": "stitch_nihongo_learning_system (4).zip",
+  "source_directory": "s35_review_queue_h_ng_i_n_t_p_ng_t_qu_ng_spaced_repetition",
+  "feature_group": "review"
+}

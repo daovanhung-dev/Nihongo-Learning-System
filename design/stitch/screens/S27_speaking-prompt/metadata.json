@@ -1,0 +1,8 @@
+{
+  "screen_id": "S27",
+  "title": "Speaking Prompt",
+  "route": "/#/speaking/:sessionId",
+  "source_archive": "stitch_nihongo_learning_system (3).zip",
+  "source_directory": "s27_speaking_prompt_luy_n_ph_t_m_ph_n_x_ai",
+  "feature_group": "speaking"
+}
